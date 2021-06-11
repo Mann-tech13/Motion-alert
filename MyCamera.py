@@ -41,4 +41,4 @@ while (cap.isOpened()):
 cap.release()
 output.release()
 cv2.destroyAllWindows()
-# email = SendFile.sendEmail()
+email = SendFile.sendEmail()
