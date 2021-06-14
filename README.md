@@ -10,7 +10,7 @@
 - Windows: https://youtu.be/Fcc_jemaoNU
 - Linux with Pi Awesome: https://kirr.co/sx77b7
 
-## Installing OpenCV on Linux
+## Installing OpenCV on Windows
 
 ```
    pip install opencv
