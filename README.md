@@ -3,10 +3,23 @@
 
 # OpenCV: Open Source Computer Vision Library
 
+![logo2](https://cloud.githubusercontent.com/assets/15849927/23373894/f4570b12-fd47-11e6-8e19-6a8ba489ec19.png)
+
 ### Install OpenCV for Python on your system:
 - Mac: https://youtu.be/iluST-V757A
 - Windows: https://youtu.be/Fcc_jemaoNU
 - Linux with Pi Awesome: https://kirr.co/sx77b7
+
+## Installing OpenCV on Linux
+
+```
+   pip install opencv
+```
+### Use below command to use openCV in your project
+```
+  import cv2
+```
+
 
 ### Resources
 
