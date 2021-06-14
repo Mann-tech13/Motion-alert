@@ -20,6 +20,15 @@
   import cv2
 ```
 
+## Installing smtp library on Windows
+```
+   pip install secure-smtplib
+```
+## Installing email library on Windows
+```
+   pip install email
+```
+
 
 ### Resources
 
