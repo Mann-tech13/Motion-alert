@@ -20,16 +20,6 @@
   import cv2
 ```
 
-## Installing smtp library on Windows
-```
-   pip install secure-smtplib
-```
-## Installing email library on Windows
-```
-   pip install email
-```
-
-
 ### Resources
 
 * Homepage: <https://opencv.org>
@@ -39,3 +29,24 @@
   * previous forum (read only): <http://answers.opencv.org>
 * Issue tracking: <https://github.com/opencv/opencv/issues>
 * Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib> 
+
+<hr>
+
+## Installing smtp library on Windows
+```
+   pip install secure-smtplib
+```
+## Installing email library on Windows
+```
+   pip install email
+```
+### Use below command to use email automation in your project
+```
+   import smtplib
+   from email.mime.multipart import MIMEMultipart
+   from email.mime.text import MIMEText
+   from email.mime.base import MIMEBase
+   from email import encoder
+```
+
+
